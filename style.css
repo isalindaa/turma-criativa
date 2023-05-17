@@ -1,7 +1,12 @@
-header{
+.cabeçalho{
     background-color:rgb(48, 144, 151);
-color: white;
+    color: white;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding: 24px;
 }
+   
   
  
 
