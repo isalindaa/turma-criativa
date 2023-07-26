@@ -2,23 +2,31 @@
     margin: 0;
     padding: 20;
 }
+
 .cabeçalho{
-    background-color:rgb(48, 144, 151);
-    color: white;
+    background-color:rgb(29, 80, 83);
+    color: rgb(180, 220, 221);
  display: flex;
  justify-content: space-around;
  align-items: center;
- padding: 22px;
+ padding: 28px;
 }
    .cabeçalho-lista-item{
    display: inline-block;
    margin: 0 16px;
-   font-size: 28px;
+   font-size: 38px;
    }
   .cabeçalho-imagem{
     width: 10%;
   }
- 
+  .escola-imagem {
+    width: 22%;
+  }
+ .escola{
+ background-image: linear-gradient(#1d4e52,#59e4f7ce);
+ color: white;
+ }
 
     
 
+s
